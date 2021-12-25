@@ -1,0 +1,7 @@
+settings:
+  #Max distance a player can be from the start before they are kicked from the course
+  max-distance: 50
+  region: "Parkour"
+
+database:
+  connectionString: "mongodb+srv://connect:spicy@mc.ncrmn.mongodb.net/minecraft?retryWrites=true&w=majority"
